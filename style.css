@@ -11,14 +11,12 @@ body {
     right: 0;
 }
 
-#l, #r{
-    width: 450px;
-    height: 600px;
-    border-radius: 50%;
-    margin-top: 30px;
+h1{
+    font-style: italic;
+    font-size: 45px;
 }
 
-#c {
+#c, #l {
     width: 500px;
     height: 800px;
     border-radius: 50%;
@@ -26,9 +24,10 @@ body {
 }
 
 p {
-    font-size: 25px;
+    font-size: 40px;
     margin: 25px auto;
     line-height: 1.5;
+    color: blue;
 
 }
 
@@ -38,15 +37,10 @@ h1 {
     font-style: italic;
     text-align: center;
 }
-#somya, #archi {
-    width: 520px;
-    height: 700px;
-    border-radius: 50%;
-    margin-top: 30px;
-}
+
 
 #mix {
-    width: 450px;
+    width: 700px;
     height: 800px;
     border-radius: 50%;
     margin-top: 30px;
